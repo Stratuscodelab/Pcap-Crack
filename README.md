@@ -52,7 +52,7 @@ hashcat --version
 ------------------
 🚀 Usage
 
-1️⃣ Place your .hc22000 file in the same directory as this script pcapcrack_v1.0.py
+1️⃣ Place your .hc22000 file in the same directory as this script pcapcrack_v1.0.sh
 
 
 2️⃣ Place your .hc22000 file in the same directory
