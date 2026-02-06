@@ -40,7 +40,7 @@ hashcat --version
 ---
 
 ## Directory Layout 
-
+```
 .
 ├── run-hashcat.sh
 ├── plist/              # Wordlists live here
@@ -48,7 +48,7 @@ hashcat --version
 │   ├── xato_net_passwords.txt
 │   └── large_lists.tar.gz
 ├── capture.hc22000
-
+```
 ------------------
 🚀 Usage
 
