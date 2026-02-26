@@ -61,7 +61,7 @@ hashcat --version
 
 4️⃣ Run:
 
-./run-hashcat.sh
+./pcapcrack_V1.0.sh
 
 -----------------
 
